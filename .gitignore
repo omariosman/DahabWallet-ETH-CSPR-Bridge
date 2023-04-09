@@ -1,0 +1,17 @@
+# Rust build artifacts
+target/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.iml
+
+# Cargo lockfile
+Cargo.lock
+
+# Log files
+*.log
+
+# Casper-specific files
+*.deploy
+*.stored_value
